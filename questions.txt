@@ -1,0 +1,21 @@
+🔸 Interview Curveballs
+- What’s the difference between apply(), lapply(), sapply(), and tapply()?
+- How does R handle memory management?
+- Explain environments and scoping rules.
+- What’s the difference between data.frame and data.table?
+- How do you optimize performance in R scripts?
+
+🔸 Hidden Programming Features
+- Vectorized Operations: R avoids loops by operating on entire vectors.
+- Lazy Evaluation: Function arguments are only evaluated when needed.
+- Closures: Functions can return other functions with preserved environments.
+- S3 & S4 Classes: Object-oriented programming in R (S3 is informal, S4 is formal).
+- R Markdown: Combine code, output, and narrative in one document.
+- Rcpp: Integrate C++ code for performance boosts.
+
+Core Concepts
+- Vectors: Basic data structure; holds elements of the same type.
+- Lists: Can hold elements of different types.
+- Data Frames: Tabular data structure (like a spreadsheet).
+- Functions: Defined using function(); R is functional at heart.
+- Packages: Extend R’s capabilities (e.g., ggplot2, dplyr, tidyr).
