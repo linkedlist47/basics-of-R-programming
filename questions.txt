@@ -24,7 +24,7 @@ Core Concepts
 2.write a program to compare two numbers using all relational and print whether each condition is true or false
 3.write a program to check a number is between 10 and 50 using logical AND and OR operators use the not operator to revese the condition 
 4.write a program to demonstrate shitf left and shift right and equals to assingment operators and assign values to variables in both directions and print the results
-5.
+
 
 📢 Dear Students,
 
