@@ -25,3 +25,16 @@ Core Concepts
 3.write a program to check a number is between 10 and 50 using logical AND and OR operators use the not operator to revese the condition 
 4.write a program to demonstrate shitf left and shift right and equals to assingment operators and assign values to variables in both directions and print the results
 5.
+
+📢 Dear Students,
+
+In today’s *OCC - R Programming*, practise the following task:
+
+1. Create a vector with numbers from 1 to 5.
+2. From the vector x <- c(10, 20, 30, 40, 50), print the first element.
+3. Create a list with: Your name (character), Your age (numeric), A logical value (TRUE/FALSE).
+4. Create a list that contains: A vector of numbers from 1 to 4
+
+💻 Try it in RStudio and note down the output in your 80 pages note.
+
+Come to C317 for 3rd & 4th hour
