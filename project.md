@@ -1,4 +1,3 @@
-Here is the Time Series Forecasting Project formatted as a comprehensive Markdown file.
 
 -----
 
